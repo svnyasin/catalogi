@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "663058085308",
+    "project_id": "catalogi-fa6a8",
+    "storage_bucket": "catalogi-fa6a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663058085308:android:8f51a242921eeffe3a67b9",
+        "android_client_info": {
+          "package_name": "com.yasinseven.catalogi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663058085308-elrlsb0dshdahur2f18de05r3lhti5l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yasinseven.catalogi",
+            "certificate_hash": "bfb8731b48b44d18c965a6997ea08011dd1f9ef9"
+          }
+        },
+        {
+          "client_id": "663058085308-gdhs1kcqa6fhj990kdjmbr1g11skjuk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWNC_umkNus0z7fMFdjUXnTYdeE539r3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663058085308-gdhs1kcqa6fhj990kdjmbr1g11skjuk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
