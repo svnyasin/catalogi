@@ -75,7 +75,7 @@ void main() {
   Firebase.initializeApp();
 
   const email = 'test@gmail.com';
-  const password = 't0ps3cret42';
+  const password = '2c3ee1ac43f080f1b7a770(encryptedRC4)'; 
   const user = User(
     id: _mockFirebaseUserUid,
     email: _mockFirebaseUserEmail,
